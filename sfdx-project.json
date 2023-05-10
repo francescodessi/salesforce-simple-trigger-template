@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "salesforce-simple-trigger-template",
+      "default": true
+    }
+  ],
+  "name": "salesforce-simple-trigger-template",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
